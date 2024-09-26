@@ -1,5 +1,12 @@
+**Assignment 11.1**
+https://github.com/Nandini1212/used_cars.git
+
+**Summary**
+The linked notebook above analyzes the provided used car data by running multiple models on the data to determine the most important car features relative to price.
+
 # used_cars
-The findings based on the model performance (with a Mean Absolute Error (MAE) of 82654 and an R² Score of 0.000034) suggest the following:
+Analyzing the used cars dataset in Python, here’s a step-by-step guide, starting with loading the data and performing some basic exploratory data analysis (EDA). This will serve as the foundation for building more complex analyses and models later.
+
 
 **Key Observations:**
 
